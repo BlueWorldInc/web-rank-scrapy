@@ -32,9 +32,9 @@ Le C est un peu entre le deuxième et le troisième groupe. Mais plus proche du 
 
 Le top 25. On peut voir une domination du C++, suivi par Python. Plus on monte dans le classement plus la domination du C++ se fait ressentir.
 
-### La performance des languages
+## La performance des languages
 
-## Exercice moyen réussi par language
+### Exercice moyen réussi par language
 
 Le premier indicateur de performance d'un language que je vais analyser est l'exercice moyen qu'un utilisateur d'un language donnée à réussi.
 
@@ -42,7 +42,7 @@ Le premier indicateur de performance d'un language que je vais analyser est l'ex
 
 Comme on peut le voir sur le graphique que le C est le language qui à le moins bien réussi. En moyenne un utilisateur de C n'a pas réussi à résoudre les 2 premiers exercices alors que tout les autres languages ont réussi cela. Cela confirme que le C est un language peut adapter à la compétition et qu'il est surtout utilisé par les débutants. Le language qui à le mieux réussi est le C++, suivi de près par le Python. Les autres languages ont des taux relativement similaire, le C# étant un peu mieux que les 3 autres.
 
-## Rang moyen attend par language
+### Rang moyen attend par language
 
 Le second indicateur est le rang moyen attend par un utilisateur d'un language donnée. Plus le rang est faible plus le language est performant.
 
@@ -55,7 +55,7 @@ Les autres languages sont encore une fois assez proche les unes des autres. Le C
 
 Sur ce graphique ont vois le classement qui inclus les languages peu choisi. Ont vois que Kotlin, Scala et Ruby ont tout les 3 mieux réussi que le Python. Mais je pense que cette relative réussite est surtout du au fait qu'étant des languages spécialisé et peu populaire ils sont surtout utilisé par des personnes connaissent assez bien leur languages.
 
-## L'utilisation des languages par rapport à la position dans le classement
+### L'utilisation des languages par rapport à la position dans le classement
 
 Le troisème indicateur est le pourcentage de l'utilisation d'un language suivant les tranches. Par example parmis les personnes classés dans le top 10% combien ont utilisé le Python. Les tranches sont divisés tranches de 10%. Les graphiques sont centrés sur 1.
 
@@ -96,7 +96,7 @@ Ce graphique est montre la consolidation des données. Ont peut voir que le Pyth
 La chute du JS parmis les top performeurs est encore plus impressionnant dans ce graphique. Il passe de la deuxième place à l'avant dernière place, juste devant le C.
 Ont peut également voir le C# faire sont chemin tranquille sans trop varier.
 
-### Conclusion
+## Conclusion
 
 Globalement le Python domine, et en nombre d'utilisateur et parmis les meilleurs, même si sur le haut du podium le C++ ne laisse pas sa place échappé (les 2 premières places ont été obtenue par des utilisateurs de C++).
 C'est assez intéressant de voir l'utilisation des languages et leur profil. Ont peut presque dire qu'un language donne un indice sur l'utilisateur potentielle de celui-ci.

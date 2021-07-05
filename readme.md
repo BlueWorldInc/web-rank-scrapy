@@ -29,3 +29,8 @@ Je pense qu'il y a plusieurs graphiques qui serait intéressant de voir.
 * Le troisième graphique qui permettra de voir la moyen des exos complétés par languages.
 * Le quatrième graphique identique mais pour les personnes ayant au moins réalisés les 2 premiers exercice (qui était classé comme facile).
 * Le cinquième la distribution de chaque language dans chaque catégorie (un % de la representation du language sur le % de representation moyenne pour les 10% les meilleurs, pour les 10% les plus mauvais, etc...).
+
+## Rapport:
+<br>
+
+Voici le lien vers le rapport: [Rapport](./rapport/rapport.md).

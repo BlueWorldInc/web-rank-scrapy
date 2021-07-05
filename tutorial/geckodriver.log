@@ -1,0 +1,77 @@
+1623510655637	geckodriver	INFO	Listening on 127.0.0.1:60544
+1623510658701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileEH2Y5v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623510661530	Marionette	INFO	Listening on port 60552
+1623510661881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1623510671733	Marionette	INFO	Stopped listening on port 60552
+1623510738107	geckodriver	INFO	Listening on 127.0.0.1:60726
+1623510741166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileIT8Qqz"
+1623510741587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileIT8Qqz\\search.json.mozlz4", (void 0)))
+1623510744201	Marionette	INFO	Listening on port 60734
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390099,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390099,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1623510744338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1623510762904	Marionette	INFO	Stopped listening on port 60734
+1623511060762	geckodriver	INFO	Listening on 127.0.0.1:57366
+1623511063836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofile5P5Wtw"
+1623511064252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofile5P5Wtw\\search.json.mozlz4", (void 0)))
+1623511066753	Marionette	INFO	Listening on port 57374
+1623511067007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1623511105431	Marionette	INFO	Stopped listening on port 57374
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623511107395	geckodriver	INFO	Listening on 127.0.0.1:57436
+1623511110443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileBAnfzP"
+1623511110844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileBAnfzP\\search.json.mozlz4", (void 0)))
+1623511113135	Marionette	INFO	Listening on port 57444
+1623511113636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1623511383197	Marionette	INFO	Stopped listening on port 57444
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileg2GlMs"
+1623511220274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofileg2GlMs\\search.json.mozlz4", (void 0)))
+1623511222597	Marionette	INFO	Listening on port 49678
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390099,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1623511223080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1623511381612	Marionette	INFO	Stopped listening on port 49678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+zprofile3tFbEj"
+1623511371152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\keamy\\AppData\\Local\\Temp\\rust_mozprofile3tFbEj\\search.json.mozlz4", (void 0)))
+1623511373446	Marionette	INFO	Listening on port 49776
+1623511373973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\keamy\AppData\Local\Temp\rust_mozprofile3tFbEj\protections.sqlite
+1623511378960	Marionette	INFO	Stopped listening on port 49776
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
